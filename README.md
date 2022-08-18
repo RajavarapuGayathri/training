@@ -13,6 +13,8 @@ Const,Your Rating,Date Rated,Title,URL,Title Type,IMDb Rating,Runtime (mins),Yea
 3) Iterate through the contents of the CSV file and for each row
 4) Create a new instance of above class. 
 
+###########################################
+
 * Create a virtual environment
 * Create a requirements.txt file with required dependencies
 * Create a .gitignore file
