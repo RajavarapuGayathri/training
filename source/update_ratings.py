@@ -5,7 +5,7 @@ from ratings_class import Ratings
 import csv
 import pandas as pd
 
-# read the csv file
+# Read the csv file
 # Load the CSV into a Data Frame
 
 csv_file=pd.read_csv('ratings.csv', encoding='latin')
