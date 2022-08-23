@@ -24,7 +24,7 @@ for index, row in csv_file[0:10].iterrows():
         my_rating=float(my_rating)
         # Create object this_movie for Ratings class
 
-        this_movie =Ratings(row['Const'], float(row['Your Rating']), row['Date Rated'], row['Title'], row['URL'], row['Title Type'], row['IMDb Rating'], row['Runtime (mins)'], row['Year'], row['Genres'], row['Num Votes'], row['Release Date'], row['Directors'])
+        this_movie =Ratings(row['Const'], row['Your Rating'], row['Date Rated'], row['Title'], row['URL'], row['Title Type'], row['IMDb Rating'], row['Runtime (mins)'], row['Year'], row['Genres'], row['Num Votes'], row['Release Date'], row['Directors'])
 
         # Calling set_rating method
 
