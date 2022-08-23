@@ -1,4 +1,4 @@
-# The below class is to update rating
+# Below class is to update rating
 # contains functions to update user rating along with current date
 # importing necessary modules
 
