@@ -1,5 +1,5 @@
 # Below class is to update rating
-# contains functions to update user rating along with current date
+# Contains functions to update user rating along with current date
 # importing necessary modules
 
 import sys
